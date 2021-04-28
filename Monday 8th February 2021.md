@@ -4,13 +4,6 @@
 
 // For any questions or feedback @spoofbtw on twitter!
 
-
-// CTRL + Click or Middle Mouse Click one of the hyperlinks below    
-// and click the name in blue on the website it takes you to   
-// There you can see a picture or a 3D model 
-
-// For any questions or feedback @spoofbtw on twitter!
-
 1.	[Emblem](https://www.light.gg/db/compare/227400) // 1. [Catalyst](https://www.light.gg/db/compare/227425)
 2.	[Emblem](https://www.light.gg/db/compare/227401)
 3.	[Emblem](https://www.light.gg/db/compare/227402) 
