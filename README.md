@@ -2,4 +2,4 @@
 
 // Destiny 2 Api Updates \\
 
-[Monday8thFebruary](Monday 8th February 2021.md)
+[Monday8thFebruary](https://github.com/spoofbtw/api-updates/blob/d695f334dd5a909d2ca0085139c76b5b388b24db/Monday%208th%20February%202021.md)
