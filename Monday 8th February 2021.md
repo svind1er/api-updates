@@ -11,15 +11,15 @@
 
 // For any questions or feedback @spoofbtw on twitter!
 
-1.	[Emblem](https://www.light.gg/db/compare/227400) // 1. [Catalyst](https://www.light.gg/db/compare/227284)
-2.	[Emblem](https://www.light.gg/db/compare/227401) // 2. [Catalyst](https://www.light.gg/db/compare/227285)
-3.	[Emblem](https://www.light.gg/db/compare/227402) // 3. [Catalyst](https://www.light.gg/db/compare/227425)
+1.	[Emblem](https://www.light.gg/db/compare/227400) // 1. [Catalyst](https://www.light.gg/db/compare/227425)
+2.	[Emblem](https://www.light.gg/db/compare/227401)
+3.	[Emblem](https://www.light.gg/db/compare/227402) 
 4.	[Emblem](https://www.light.gg/db/compare/227403) 
 5.	[Emblem](https://www.light.gg/db/compare/227404) // 1. [Exotic Armor](https://www.light.gg/db/compare/227111)
 6.	[Emblem](https://www.light.gg/db/compare/227405) // 2. [Exotic Armor](https://www.light.gg/db/compare/227304)
 7.	[Emblem](https://www.light.gg/db/compare/227406) // 3. [Exotic Armor](https://www.light.gg/db/compare/227893)
-8.	[Emblem](https://www.light.gg/db/compare/227407) // 4. [Exotic Armor](https://www.light.gg/db/compare/228035)
-9.	[Emblem](https://www.light.gg/db/compare/227408) // 5. [Exotic Armor](https://www.light.gg/db/compare/228106)
+8.	[Emblem](https://www.light.gg/db/compare/227407) // 4. [Exotic Armor](https://www.light.gg/db/compare/228106)
+9.	[Emblem](https://www.light.gg/db/compare/227408)
 10.	[Emblem](https://www.light.gg/db/compare/227409)
 11.	[Emblem](https://www.light.gg/db/compare/227413) // 1. [Exotic Weapon](https://www.light.gg/db/compare/227296)
 12.	[Emblem](https://www.light.gg/db/compare/227414) // 2. [Exotic Weapon](https://www.light.gg/db/compare/228131)
