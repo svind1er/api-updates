@@ -78,8 +78,7 @@
 [Heavy](https://www.light.gg/db/compare/227391) |
 [Heavy](https://www.light.gg/db/compare/227393) |
 [Heavy](https://www.light.gg/db/compare/227494) |
-[Heavy](https://www.light.gg/db/compare/227132) |
-[Heavy](https://www.light.gg/db/compare/227138) |
+
 
 
 
