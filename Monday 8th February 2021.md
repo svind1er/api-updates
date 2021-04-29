@@ -36,6 +36,7 @@
 [Exotic Ornament](https://www.light.gg/db/compare/227250) |
 [Exotic Ornament](https://www.light.gg/db/compare/227422) |
 [Exotic Ornament](https://www.light.gg/db/compare/227493) |
+
 [Ornament](https://www.light.gg/db/compare/227113) |
 [Ornament](https://www.light.gg/db/compare/227185) |
 [Ornament](https://www.light.gg/db/compare/227204) |
