@@ -35,20 +35,11 @@
 
 
 [Ornament](https://www.light.gg/db/compare/227113) |
-[Ornament](https://www.light.gg/db/compare/227156) |
-[Ornament](https://www.light.gg/db/compare/227157) |
-[Ornament](https://www.light.gg/db/compare/227176) |
 [Ornament](https://www.light.gg/db/compare/227185) |
 [Ornament](https://www.light.gg/db/compare/227204) |
 [Ornament](https://www.light.gg/db/compare/227225) |
 [Ornament](https://www.light.gg/db/compare/227249) |
 [Ornament](https://www.light.gg/db/compare/227250) |
-[Ornament](https://www.light.gg/db/compare/227254) |
-[Ornament](https://www.light.gg/db/compare/227255) |
-[Ornament](https://www.light.gg/db/compare/227256) |
-[Ornament](https://www.light.gg/db/compare/227257) |
-[Ornament](https://www.light.gg/db/compare/227258) |
-[Ornament](https://www.light.gg/db/compare/227259) |
 [Ornament](https://www.light.gg/db/compare/227286) |
 [Ornament](https://www.light.gg/db/compare/227287) |
 [Ornament](https://www.light.gg/db/compare/227300) |
