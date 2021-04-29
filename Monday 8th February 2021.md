@@ -33,3 +33,66 @@
 [Emblem](https://www.light.gg/db/compare/227582) |
 [Emblem](https://www.light.gg/db/compare/227583) |
 
+
+[Ornament](https://www.light.gg/db/compare/227113) |
+[Ornament](https://www.light.gg/db/compare/227156) |
+[Ornament](https://www.light.gg/db/compare/227157) |
+[Ornament](https://www.light.gg/db/compare/227176) |
+[Ornament](https://www.light.gg/db/compare/227185) |
+[Ornament](https://www.light.gg/db/compare/227204) |
+[Ornament](https://www.light.gg/db/compare/227225) |
+[Ornament](https://www.light.gg/db/compare/227249) |
+[Ornament](https://www.light.gg/db/compare/227250) |
+[Ornament](https://www.light.gg/db/compare/227254) |
+[Ornament](https://www.light.gg/db/compare/227255) |
+[Ornament](https://www.light.gg/db/compare/227256) |
+[Ornament](https://www.light.gg/db/compare/227257) |
+[Ornament](https://www.light.gg/db/compare/227258) |
+[Ornament](https://www.light.gg/db/compare/227259) |
+[Ornament](https://www.light.gg/db/compare/227286) |
+[Ornament](https://www.light.gg/db/compare/227287) |
+[Ornament](https://www.light.gg/db/compare/227300) |
+[Ornament](https://www.light.gg/db/compare/227323) |
+[Ornament](https://www.light.gg/db/compare/227337) |
+[Ornament](https://www.light.gg/db/compare/227357) |
+[Ornament](https://www.light.gg/db/compare/227373) |
+[Ornament](https://www.light.gg/db/compare/227422) |
+[Ornament](https://www.light.gg/db/compare/227446) |
+[Ornament](https://www.light.gg/db/compare/227454) |
+[Ornament](https://www.light.gg/db/compare/227493) |
+
+
+
+[Primary](https://www.light.gg/db/compare/227355) |
+[Primary](https://www.light.gg/db/compare/227365) |
+[Primary](https://www.light.gg/db/compare/227368) |
+[Primary](https://www.light.gg/db/compare/227369) |
+[Primary](https://www.light.gg/db/compare/227378) |
+
+[Special](https://www.light.gg/db/compare/227116) |
+[Special](https://www.light.gg/db/compare/227134) |
+[Special](https://www.light.gg/db/compare/227142) |
+[Special](https://www.light.gg/db/compare/227171) |
+[Special](https://www.light.gg/db/compare/227294) |
+[Special](https://www.light.gg/db/compare/227296) |
+[Special](https://www.light.gg/db/compare/227338) |
+[Special](https://www.light.gg/db/compare/227341) |
+[Special](https://www.light.gg/db/compare/227451) |
+[Special](https://www.light.gg/db/compare/227549) |
+[Special](https://www.light.gg/db/compare/227552) |
+
+[Heavy](https://www.light.gg/db/compare/227132) |
+[Heavy](https://www.light.gg/db/compare/227138) |
+[Heavy](https://www.light.gg/db/compare/227260) |
+[Heavy](https://www.light.gg/db/compare/227266) |
+[Heavy](https://www.light.gg/db/compare/227310) |
+[Heavy](https://www.light.gg/db/compare/227391) |
+[Heavy](https://www.light.gg/db/compare/227393) |
+[Heavy](https://www.light.gg/db/compare/227494) |
+[Heavy](https://www.light.gg/db/compare/227132) |
+[Heavy](https://www.light.gg/db/compare/227138) |
+
+
+
+
+
