@@ -1,5 +1,6 @@
 # api-updates
-**-- BOT HAS BROKEN AND FOR NOW I REALLY DONT HAVE TIME TO FIX IT --** 
+**-- BOT HAS BROKEN AND FOR NOW I REALLY DONT HAVE TIME TO FIX IT --**   
+|| **Follow @DestinyNewsCom on Twitter as theyre doing what i was supposed to do and they do it better** ||
 
 // Destiny 2 Api Updates  
 // Working on adding ***Ships, Sparrows and Ghosts***
